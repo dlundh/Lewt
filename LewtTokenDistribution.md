@@ -16,9 +16,9 @@ The Lewt token will be submitted to exchanges at the end of the ICO.
 Minimum amount to send is 0.1 ETH.
 
 ## Distribution timeframe
-__From:__ September 1, 2017
+__From:__ September 15, 2017 @ 6:00am
 
-__To:__ October 1, 2017
+__To:__ October 15, 2017 @ 6:00am
 
 Only send ETH between these dates or the transfer will automatically fail. The ICO may end before September 15 if all tokens have been distributed.
 
@@ -26,7 +26,7 @@ Only send ETH between these dates or the transfer will automatically fail. The I
 The GetLewt platform will distribute any remaining tokens via USD deposits at a 1:1 ratio until the token cap is reached.
 
 ## Send contribution to
-Ethereum address coming soon
+0x7D25df2291fAaAec2A28b0313982d3Ee515175A4
 
 ## Please review the following before sending ETH
 Any compatible wallet can be used to participate in the token distribution.
